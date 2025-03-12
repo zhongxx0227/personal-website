@@ -23,6 +23,19 @@ h1 {
     font-size: 32px;
 }
 
+/* Class 'info' applied to multiple elements */
+.info {
+    color: #333;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+/* ID styling for the About Me section */
+#intro {
+    border: 2px dashed #ccc;
+    padding: 10px;
+}
+
 /* Flexbox Layout */
 .content {
     display: flex;
